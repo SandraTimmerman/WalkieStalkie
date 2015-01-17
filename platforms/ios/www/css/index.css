@@ -1,0 +1,57 @@
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+}
+
+body {
+    -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
+    -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
+    -webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
+    background-attachment:fixed;
+    font-size: 12px;
+    font-family: 'Shadows Into Light',cursive;
+    margin: 0px;
+    padding: 0px;
+	background-color:#f59b2d;
+	
+  }
+
+/* Portrait layout (default) */
+
+/* All the div’s just below the body get lay-out on the same place */
+body > div {
+    position: absolute;
+    top: 30px;
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+#spinner { /* thks http://codepen.io/mgrubinger/pen/MYWQRx */
+    height: 21px;
+    width: 21px;
+    margin: 20px auto;
+    border-radius: 50%;
+    border: dashed 1px #D0CE03;
+    -webkit-animation-name: loader-spin;
+    -webkit-animation-duration: 3.5s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    animation-name: loader-spin;
+    animation-duration: 3.5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@-webkit-keyframes loader-spin {
+  from   {  transform: rotate(0deg); }
+  to     {  transform: rotate(360deg); }
+}
+
+@keyframes loader-spin {
+  from   {  transform: rotate(0deg); }
+  to     {  transform: rotate(360deg); }
+}

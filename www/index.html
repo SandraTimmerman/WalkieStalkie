@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
+		<title>Alert! Alert!</title>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <title>More Rain</title>
+    </head>
+    <body>
+        <div id="loading">
+            <div id="spinner"></div>
+        </div>
+        <div id="results">
+            <pre id="resultsraw"></pre>
+        </div>
+		<div id="nothing" class="hidden">
+			
+		</div>
+        <script type="text/javascript" src="cordova.js"></script>
+		<!-- This is the Google library for using the Places API, see https://developers.google.com/maps/documentation/javascript/places -->
+		<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=places"></script>
+        <script type="text/javascript" src="js/jquery-2.1.1.js"></script>
+        <script type="text/javascript" src="js/country_reverse_geocoding.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+    </body>
+</html>

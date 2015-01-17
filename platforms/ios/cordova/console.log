@@ -1,0 +1,45 @@
+2014-12-08 14:47:18.392 More Rain[8257:266152] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/sandra/Library/Developer/CoreSimulator/Devices/5374E771-9CB4-42A0-9DA7-90B951A071C7/data/Containers/Data/Application/283AE5B1-300C-4DF8-BD90-7676F00812E5/Library/Cookies/Cookies.binarycookies
+2014-12-08 14:47:21.245 More Rain[8257:266152] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-08 14:47:21.255 More Rain[8257:266152] Multi-tasking -> Device: YES, App: YES
+2014-12-08 14:47:21.299 More Rain[8257:266152] Unlimited access to network resources
+2014-12-08 14:47:21.328 More Rain[8257:266152] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-08 14:47:25.765 More Rain[8257:266152] Resetting plugins due to page load.
+2014-12-08 14:47:26.895 More Rain[8257:266152] Finished load of: file:///Users/sandra/Library/Developer/CoreSimulator/Devices/5374E771-9CB4-42A0-9DA7-90B951A071C7/data/Containers/Bundle/Application/537A8890-8B83-4306-99E1-7C7C1C983EA5/More%20Rain.app/www/index.html
+2014-12-08 14:47:26.992 More Rain[8257:266152] THREAD WARNING: ['Geolocation'] took '38.029785' ms. Plugin should use a background thread.
+2014-12-08 14:51:12.488 More Rain[8257:266152] locationManager::didFailWithError (null)
+2014-12-08 21:29:28.744 More Rain[8870:298084] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/sandra/Library/Developer/CoreSimulator/Devices/5374E771-9CB4-42A0-9DA7-90B951A071C7/data/Containers/Data/Application/94ACFEBD-1F66-43A1-89AA-AD4CCBB1032C/Library/Cookies/Cookies.binarycookies
+2014-12-08 21:29:30.248 More Rain[8870:298084] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-08 21:29:30.265 More Rain[8870:298084] Multi-tasking -> Device: YES, App: YES
+2014-12-08 21:29:30.322 More Rain[8870:298084] Unlimited access to network resources
+2014-12-08 21:29:30.397 More Rain[8870:298084] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-08 21:29:33.703 More Rain[8870:298084] Resetting plugins due to page load.
+2014-12-08 21:29:35.108 More Rain[8870:298084] Finished load of: file:///Users/sandra/Library/Developer/CoreSimulator/Devices/5374E771-9CB4-42A0-9DA7-90B951A071C7/data/Containers/Bundle/Application/7D9F759F-7D13-4291-85B5-47EB568DB6C7/More%20Rain.app/www/index.html
+2014-12-15 11:54:38.669 More Rain[18570:904940] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/sandra/Library/Developer/CoreSimulator/Devices/5374E771-9CB4-42A0-9DA7-90B951A071C7/data/Containers/Data/Application/04E3B007-ACE6-40E1-948A-A2DAA8B9FE25/Library/Cookies/Cookies.binarycookies
+2014-12-15 11:54:39.283 More Rain[18570:904940] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-15 11:54:39.283 More Rain[18570:904940] Multi-tasking -> Device: YES, App: YES
+2014-12-15 11:54:39.296 More Rain[18570:904940] Unlimited access to network resources
+2014-12-15 11:54:39.330 More Rain[18570:904940] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-15 11:54:41.660 More Rain[18570:904940] Resetting plugins due to page load.
+2014-12-15 11:54:42.643 More Rain[18570:904940] Finished load of: file:///Users/sandra/Library/Developer/CoreSimulator/Devices/5374E771-9CB4-42A0-9DA7-90B951A071C7/data/Containers/Bundle/Application/C6A2F47B-7468-4E19-863C-EE11D55E79CD/More%20Rain.app/www/index.html
+2014-12-15 11:59:07.609 More Rain[18570:905012] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
